@@ -1,0 +1,5 @@
+{
+  "name": "CORTEX-9: Cyber-Warfare Training",
+  "description": "An interactive, terminal-based AI simulator for ethical hacking training and Red Team scenarios using the Gemini API.",
+  "requestFramePermissions": []
+}
